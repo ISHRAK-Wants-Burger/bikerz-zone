@@ -1,0 +1,14 @@
+.bz-light-red{
+    background-color: rgb(159, 30, 30);
+}
+.rating-icon{
+    width: 18px;
+}
+.btn-bz-danger{
+    background-color: greenyellow;
+    color: rgb(214, 43, 91);
+}
+
+.w-25{
+    width: 75% !important;
+}
